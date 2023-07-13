@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amityadav872699
 - 👀 I’m interested in Java, SQL, Python
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me amityadav8726999@gmail.com
 
 <!---
